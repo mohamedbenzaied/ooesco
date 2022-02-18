@@ -1,0 +1,33 @@
+.text-header{
+    font-size:medium;
+margin-right: 1vh;
+margin-bottom: 1vh;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content:right;
+}
+.divlogo{
+    margin: 0;
+    padding: 0;
+}
+img{
+    margin: 0;
+    padding: 0;
+}
+.title{
+justify-content: center;
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(0, 88, 0);
+    text-shadow: 
+      4px 4px 0px #d5d5d5, 
+      7px 7px 0px rgba(0, 0, 0, 0.2);
+  
+}

@@ -1,0 +1,26 @@
+.label{
+    position: relative;
+    float:right;
+    max-width: 20vh;
+    margin-top: -60vh;
+    margin-right: 45vh;
+    padding: 1vh 1vh 1vh 2vh;
+    border-style: groove;
+    background-color: white;
+    direction: rtl;
+}
+p{
+    text-align: center;
+}
+.tit{
+    position: relative;
+    float:right;
+    max-width: 20vh;
+    margin-top: -87vh;
+    margin-right: 87vh;
+    padding: 1vh 1vh 1vh 2vh;
+    direction: rtl;    
+}
+.map{
+    position: absolute;
+}

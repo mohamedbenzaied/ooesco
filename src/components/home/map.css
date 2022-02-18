@@ -1,0 +1,48 @@
+.gouv{
+    fill: rgb(255, 226, 226);
+}
+.gouv:hover{
+    fill: red;
+}
+text{
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+.gouvg{
+    fill: rgb(223, 255, 223)
+}
+.gouvg:hover{
+    fill: green;
+}
+.map{
+    display: flex;
+position: relative;
+padding-top: 10vh;
+padding-right:10vh ;
+margin-top: 5vh;
+margin-left: 45vh;
+transform :scale(1.1);
+background-color: beige;
+width: 110vh;
+justify-content: center;
+border-style: solid;
+border-width: 2px;
+
+}
+.tag{
+margin-top: 10vh;
+margin-left: 15vh;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bolder;
+display: flex;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    padding-top: 2vh;
+    padding-right: 1vh;
+}
