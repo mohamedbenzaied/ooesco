@@ -12,7 +12,6 @@ function App() {
     <div>
       <ResponsiveAppBar className="nav"/>
       <Map />
-    <h3 className='tit'>جذاذة فنية لمشروع الحدائق البيداغوجية </h3>
     <Switch>
       
 

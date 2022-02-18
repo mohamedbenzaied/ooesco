@@ -46,3 +46,13 @@ display: flex;
     padding-top: 2vh;
     padding-right: 1vh;
 }
+.tit{
+    position: absolute;
+    float:right;
+    max-width: 20vh;
+    margin-top: -7vh;
+    margin-right: -10vh;
+    padding: 1vh 1vh 1vh 2vh;
+    direction: rtl;    
+    z-index: 3;
+}
