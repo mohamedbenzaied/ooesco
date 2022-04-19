@@ -24,21 +24,20 @@ position: relative;
 padding-top: 10vh;
 padding-right:10vh ;
 margin-top: 5vh;
-margin-left: 45vh;
+margin-left: 75vh;
 transform :scale(1.1);
-background-color: beige;
 width: 110vh;
 justify-content: center;
-border-style: solid;
-border-width: 2px;
+
 
 }
 .tag{
-margin-top: 10vh;
-margin-left: 15vh;
+margin-top: 0vh;
+margin-left: 90vh;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-weight: bolder;
 display: flex;
+position: absolute;
 }
 .icon{
     width: 20px;
@@ -48,10 +47,11 @@ display: flex;
 }
 .tit{
     position: absolute;
+    text-align: center;
     float:right;
-    max-width: 20vh;
+    max-width: 25vh;
     margin-top: -7vh;
-    margin-right: -10vh;
+    margin-right: -40vh;
     padding: 1vh 1vh 1vh 2vh;
     direction: rtl;    
     z-index: 3;

@@ -1,17 +1,39 @@
 .label{
     position: absolute;
-    max-width: 20vh;
-    margin-top: -60vh;
-    margin-left: 135vh;
+        width: 80vh;
+        height: 3vh;
+    margin-top: -80vh;
+    margin-left: 30vh;
     padding: 1vh 1vh 1vh 2vh;
     border-style: groove;
     background-color: white;
     direction: rtl;
+    overflow: auto;
+
 }
+.label2{
+    position: absolute;
+    width: 80vh;
+    height: 600px;
+    margin-top: -70vh;
+    margin-left:30vh;
+    padding: 1vh 1vh 1vh 2vh;
+    border-style: groove;
+    background-color: white;
+    direction: rtl;
+    text-align: start !important;
+    overflow: auto;
+}
+
+
 p{
     text-align: center;
 }
 
 .map{
     position: absolute;
+}
+.text{
+    direction: rtl;
+    text-align: start !important;
 }

@@ -586,9 +586,10 @@ const SvgComponent = () => (
     </text>
 
   </svg>
-  <div  className="tag"><img className="icon" src={clc}/><p>أنقر على الولاية</p> </div>
-  <h3 className='tit'>جذاذة فنية لمشروع الحدائق البيداغوجية </h3>
+  <h3 className='tit'>بوابة الحدائق البيداغوجية في تونس ترحب بكم </h3>
+  <div  className="tag"><img className="icon" src={clc} alt="click" /><p>أنقر على الولاية</p> </div>
+
   </div>
 )
 
-export default SvgComponent
+export default SvgComponent;
