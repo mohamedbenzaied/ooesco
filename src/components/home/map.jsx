@@ -2,14 +2,18 @@ import * as React from "react"
 import "./map.css"
 import { Link } from "react-router-dom";
 import clc from "../../assets/click.png"
+import Box from '@mui/material/Box';
+import Card from '@mui/material/Card';
+
 const SvgComponent = () => (
+  
   <div className="map">
 
   <svg
     xmlns="http://www.w3.org/2000/svg"
     baseProfile="full"
-    width="75vh"
-    height="75vh"
+    width="100vh"
+    height="85vh"
   >
    
 
