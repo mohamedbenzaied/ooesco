@@ -663,7 +663,7 @@ function App() {
       </Route>
       <Redirect to="/" />
     </Switch>  
-    <footer className='footer'>إنجاز الطالب بالمعهد العالي للعلوم الإنسانية بجندوبة المرسم بالسنة الثالثة تربية و تعليم: 
+    <footer className='footer'>انجاز أستاذ المدارس الابتدائية: 
 جاسم الهمامي.</footer>
     </div>
   );
